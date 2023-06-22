@@ -1,0 +1,20 @@
+{
+  "name": "lession5",
+  "version": "1.0.0",
+  "description": "This npm Fruit Name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js"
+  ],
+  "author": "Ainal",
+  "license": "ISC",
+  "dependencies": {
+    "movie-list": "^4.0.0",
+    "movie-name": "^1.0.0",
+    "random-fruits-name": "^1.9.6"
+  }
+}
