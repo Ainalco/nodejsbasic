@@ -16,5 +16,6 @@
     "movie-list": "^4.0.0",
     "movie-name": "^1.0.0",
     "random-fruits-name": "^1.9.6"
-  }
+  },
+  "devDependencies": {}
 }
